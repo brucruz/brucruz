@@ -28,7 +28,7 @@ I'm a Full-Stack Software Engineer with +3 years of experience in building produ
 ## Projects and Contributions
 
 - [Carb Manager](https://carbmanager.com): Full-stack developer, developed and maintained mobile components and functionalities related to meal planning, macronutrients tracking, food logging, intermitent fasting and health integrations.
-- [OAGenius](https://oagenius.com): Full-stack developer, built price and inventory data-heavy integrayions from major online retailers to Walmart and Amazon, so dropshippers can find market opportunities and better manage their businesses.
+- [OAGenius](https://oagenius.com): Full-stack developer, built price and inventory data-heavy integrations from major online retailers to Walmart and Amazon, so dropshippers can find market opportunities and better manage their businesses.
 - [Gama Academy](https://www.gama.academy/) and [Gama University](https://gama.university/): Front-end developer, built the websites using Prismic Slices, so that the growth team could update it more easily.
 - Heali: Founder and lead developer, built a healthtech platform for patients without health insurance to find the best prices for their medical exams.
 - Headshare: Founder and developer, created a community management platform that enabled creators to grow and profit from their public.
