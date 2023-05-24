@@ -37,7 +37,7 @@ I'm a Full-Stack Software Engineer with +3 years of experience in building produ
 - [PricingCorner](https://www.pricingcorner.com): Actionable SAAS pricing advice to transform decisions into more MRR and profit growth
 
 ## Get in touch
-<p><a href="https://github.com/brucruz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ImBrunoCruz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/brunogcruz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://github.com/brucruz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ImBrunoCruz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/brunogcruz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:bruno@brunocruz.me" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%030012.svg?&style=for-the-badge" /></a>
 </p>
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
