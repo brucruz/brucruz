@@ -29,12 +29,13 @@ I'm a Full-Stack Software Engineer with +3 years of experience in building produ
 
 - [Carb Manager](https://carbmanager.com): Full-stack engineer, developed and maintained mobile components and functionalities related to meal planning, macronutrients tracking, food logging, intermitent fasting and health integrations.
 - [OAGenius](https://oagenius.com): Full-stack engineer, built price and inventory data-heavy integrations from major online retailers to Walmart and Amazon, so dropshippers can find market opportunities and better manage their businesses.
-- [Gama Academy](https://www.gama.academy/) and [Gama University](https://gama.university/): Front-end developer, built the websites using Prismic Slices, so that the growth team could update it more easily.
+- [Gama Academy](https://www.gama.academy/) and [Gama University](https://gama.university/): Front-end developer, built the websites using Prismic Slices and Webflow, so that the growth team could update it more easily.
 - Headshare: Founder and developer, created a community management platform that enabled creators to grow and profit from their public.
+- [Olabocos](https://olabocos.com.br): Partner, built the website for content creator @olabocos using WordPress and Elementor.
 - Heali: Founder and lead developer, built a healthtech platform for patients without health insurance to find the best prices for their medical exams.
 
 ## Other projects
-- [PricingCorner](https://www.pricingcorner.com): Actionable SAAS pricing advice to transform decisions into more MRR and profit growth
+- [PricingCorner](https://www.pricingcorner.com): Actionable SAAS pricing advice to transform decisions into more MRR and profit growth (built with Ghost)
 
 ## Get in touch
 <p><a href="https://github.com/brucruz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ImBrunoCruz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/brunogcruz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:bruno@brunocruz.me" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%030012.svg?&style=for-the-badge" /></a>
