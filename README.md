@@ -31,8 +31,8 @@ I'm a Full-Stack Software Engineer with +3 years of experience in building produ
 - [OAGenius](https://oagenius.com): Full-stack engineer, built price and inventory data-heavy integrations from major online retailers to Walmart and Amazon, so dropshippers can find market opportunities and better manage their businesses.
 - [Gama Academy](https://www.gama.academy/) and [Gama University](https://gama.university/): Front-end developer, built the websites using Prismic Slices and Webflow, so that the growth team could update it more easily.
 - [Olabocos](https://olabocos.com.br): Partner, built the website for content creator @olabocos using WordPress and Elementor.
-- Headshare: Founder and developer, created a community management platform that enabled creators to grow and profit from their public.
-- Heali: Founder and lead developer, built a healthtech platform for patients without health insurance to find the best prices for their medical exams.
+- [Headshare](http://headshare-community-web.brucruz.vercel.app/): Founder and developer, created a community management platform that enabled creators to grow and profit from their public.
+- [Heali](http://sagittarius.vercel.app/): Founder and lead developer, built a healthtech platform for patients without health insurance to find the best prices for their medical exams.
 
 ## Other projects
 - [PricingCorner](https://www.pricingcorner.com): Actionable SAAS pricing advice to transform decisions into more MRR and profit growth (built with Ghost)
