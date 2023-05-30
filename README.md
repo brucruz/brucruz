@@ -27,7 +27,7 @@ I'm a Full-Stack Software Engineer with +3 years of experience in building produ
 
 ## Projects and Contributions
 
-- [Carb Manager](https://carbmanager.com): Full-stack engineer, developed and maintained mobile components and functionalities related to meal planning, macronutrients tracking, food logging, intermitent fasting and health integrations.
+- [Carb Manager](https://carbmanager.com): Sr. Full-stack engineer, developed and maintained mobile components and functionalities related to meal planning, macronutrients tracking, food logging, intermitent fasting and health integrations.
 - [OAGenius](https://oagenius.com): Full-stack engineer, built price and inventory data-heavy integrations from major online retailers to Walmart and Amazon, so dropshippers can find market opportunities and better manage their businesses.
 - [Gama Academy](https://www.gama.academy/) and [Gama University](https://gama.university/): Front-end developer, built the websites using Prismic Slices and Webflow, so that the growth team could update it more easily.
 - [Olabocos](https://olabocos.com.br): Partner, built the website for content creator @olabocos using WordPress and Elementor.
