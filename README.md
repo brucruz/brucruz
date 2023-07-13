@@ -19,6 +19,7 @@ I'm a Full-Stack Software Engineer with +3 years of experience in building produ
 - **Dart:** Flutter
 - **Ruby:** Ruby on Rails
 - **Databases:** PostgreSQL, MongoDB, Firestore, Redis, FaunaDB
+- **ORMs and Query Builders:** Prisma, TypeORM, Mongoose/Typegoose, Sequelize, Knex
 - **AWS:** Lambdas, S3, SQS, SNS, SES, API Gateway (including WebSockets), Cloudwatch, EC2, Cognito, VPC, IAM, CloudFront, Route 53, RDS
 - **GCP:** Cloud Functions, App Engine, Cloud Storage, Cloud Logging
 - **Infrastructure-as-code (IaC):** AWS CDK, Serverless Framework, Serverless Stack (SST)
