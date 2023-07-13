@@ -33,9 +33,10 @@ I'm a Full-Stack Software Engineer with +3 years of experience in building produ
 - [Gama Academy](https://www.gama.academy/) and [Gama University](https://gama.university/): Front-end developer, built the websites using Prismic Slices and Webflow, so that the growth team could update it more easily.
 - [Olabocos](https://olabocos.com.br): Partner, built the website for content creator @olabocos using WordPress and Elementor.
 - [Headshare](http://headshare-community-web.brucruz.vercel.app/): Founder and developer, created a community management platform that enabled creators to grow and profit from their public.
-- [Heali](http://sagittarius.vercel.app/): Founder and lead developer, built a healthtech platform for patients without health insurance to find the best prices for their medical exams.
+- [Heali](http://sagittarius.vercel.app/): Founder and lead developer, built a health-tech platform for patients without health insurance to find the best prices for their medical exams.
 
 ## Other projects
+- [LookManager](https://look-manager.herokuapp.com/): MicroSaaS that helps people track their favorite outfits price and availability
 - [PricingCorner](https://www.pricingcorner.com): Actionable SAAS pricing advice to transform decisions into more MRR and profit growth (built with Ghost)
 
 ## Get in touch
