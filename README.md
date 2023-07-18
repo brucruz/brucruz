@@ -36,7 +36,7 @@ I'm a Full-Stack Software Engineer with +3 years of experience in building produ
 - [Heali](http://sagittarius.vercel.app/): Founder and lead developer, built a health-tech platform for patients without health insurance to find the best prices for their medical exams.
 
 ## Other projects
-- [LookManager](https://look-manager.herokuapp.com/): MicroSaaS that helps people track their favorite outfits price and availability
+- [LookManager](https://look-manager.herokuapp.com/): MicroSaaS that helps people track their favorite outfits price and availability (under construction)
 - [PricingCorner](https://www.pricingcorner.com): Actionable SAAS pricing advice to transform decisions into more MRR and profit growth (built with Ghost)
 
 ## Get in touch
