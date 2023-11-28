@@ -20,14 +20,14 @@ I'm a Full-Stack Software Engineer with +3 years of experience in building produ
 - **Ruby:** Ruby on Rails
 - **Databases:** PostgreSQL, MongoDB, Firestore, Redis, FaunaDB
 - **ORMs and Query Builders:** Prisma, TypeORM, Mongoose/Typegoose, Sequelize, Knex
-- **AWS:** Lambdas, S3, SQS, SNS, SES, API Gateway (including WebSockets), Cloudwatch, EC2, Cognito, VPC, IAM, CloudFront, Route 53, RDS
+- **AWS:** Lambdas, S3, SQS, SNS, SES, API Gateway (including WebSockets), Cloudwatch, EC2, Cognito, VPC, IAM, CloudFront, Route 53, RDS, Textract
 - **GCP:** Cloud Functions, App Engine, Cloud Storage, Cloud Logging
 - **Infrastructure-as-code (IaC):** AWS CDK, Serverless Framework, Serverless Stack (SST)
 - **Content Management Systems (CMS):** WordPress, Ghost, Prismic
 - **3rd-part integrations:** Rudderstack, Stripe, FastSpring, Google Analytics, Slack, Google Docs, Google Maps, Mailchimp, Vimeo
 
 ## Projects and Contributions
-
+- [Ribbon](https://trustribbon.com): First Engineering team hire as a Senior Software Engineer, used SST to create scrapers for financial institutions, create the back-end infrastructure and the consumer and admin client apps.
 - [Carb Manager](https://carbmanager.com): Sr. Full-stack engineer, developed and maintained mobile components and functionalities related to meal planning, macronutrients tracking, food logging, intermitent fasting and health integrations.
 - [OAGenius](https://oagenius.com): Full-stack engineer, built price and inventory data-heavy integrations from major online retailers to Walmart and Amazon, so dropshippers can find market opportunities and better manage their businesses.
 - [Gama Academy](https://www.gama.academy/) and [Gama University](https://gama.university/): Front-end developer, built the websites using Prismic Slices and Webflow, so that the growth team could update it more easily.
