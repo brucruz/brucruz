@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Full-Stack Software Engineer with +4 years of experience in building products that delight users. I am passionate about creating scalable and efficient solutions and have expertise in distributed architecture on both AWS and GCP. I also have experience in Infrastructure-as-code (IaC) using AWS CDK, Serverless Framework, and Serverless Stack (SST). In addition to my technical skills, I have a background in management consulting, specializing in Pricing.
+I'm a Full-Stack Software Engineer with +5 years of experience in building products that delight users. I am passionate about creating scalable and efficient solutions and have expertise in distributed architecture on both AWS and GCP. I also have experience in Infrastructure-as-code (IaC) using AWS CDK, Serverless Framework, and Serverless Stack (SST). In addition to my technical skills, I have a background in management consulting, specializing in Pricing.
 
 ## Technologies I've worked with
 
