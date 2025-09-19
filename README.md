@@ -27,7 +27,7 @@ I'm a Full-Stack Senior Software Engineer with +5 years of experience in buildin
 - **3rd-part integrations:** Rudderstack, Stripe, FastSpring, Google Analytics, Slack, Google Docs, Google Maps, Mailchimp, Vimeo
 
 ## Current Projects and Contributions
-- [Ribbon](https://trustribbon.com): First Engineering team hire as a Senior Full Stack Product Engineer, helped to design, build and validate an inheritance platform and a escheatment reduction system for banking institutions using NestJS and React.
+- [Ribbon](https://trustribbon.com): First Engineering team hire as a Senior Full Stack Product Engineer, helped to architect, build and validate an inheritance platform and a escheatment reduction system for banking institutions with direct integration to their core systems using NestJS and React.
 - [GlobalDial](https://globaldial.co): International phone calls alternative to Skype - built with Ruby on Rails
 - [Imóvel de Leilão](https://imoveldeleilao.com): Real estate auctions directory micro SaaS - built with Ruby on Rails
 
