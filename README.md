@@ -15,7 +15,7 @@ I'm a Full-Stack Senior Software Engineer with +5 years of experience in buildin
 
 ## Technologies I've worked with
 
-- **Javascript/Typescript:** React, NextJS, VueJS, NuxtJS, NodeJS
+- **Javascript/Typescript:** React, NextJS, VueJS, NuxtJS, NodeJS, NestJS
 - **Dart:** Flutter
 - **Ruby:** Ruby on Rails
 - **Databases:** PostgreSQL, MongoDB, Firestore, Redis, FaunaDB
@@ -27,7 +27,7 @@ I'm a Full-Stack Senior Software Engineer with +5 years of experience in buildin
 - **3rd-part integrations:** Rudderstack, Stripe, FastSpring, Google Analytics, Slack, Google Docs, Google Maps, Mailchimp, Vimeo
 
 ## Projects and Contributions
-- [Ribbon](https://trustribbon.com): First Engineering team hire as a Senior Software Engineer, used SST to create scrapers for financial institutions, create the back-end infrastructure and the consumer and admin client apps.
+- [Ribbon](https://trustribbon.com): First Engineering team hire as a Senior Full Stack Product Engineer, helped to design, build and validate an inheritance platform and a escheatment reduction system for banking institutions using NestJS and React.
 - [Carb Manager](https://carbmanager.com): Sr. Full-stack engineer, developed and maintained mobile components and functionalities related to meal planning, macronutrients tracking, food logging, intermitent fasting and health integrations.
 - [OAGenius](https://oagenius.com): Full-stack engineer, built price and inventory data-heavy integrations from major online retailers to Walmart and Amazon, so dropshippers can find market opportunities and better manage their businesses.
 - [Gama Academy](https://www.gama.academy/) and [Gama University](https://gama.university/): Front-end developer, built the websites using Prismic Slices and Webflow, so that the growth team could update it more easily.
