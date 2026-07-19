@@ -42,3 +42,13 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/brucruz/brucruz/main/profile-summary-card-output/flag_india/3-stats.svg)
+```
+
+    
