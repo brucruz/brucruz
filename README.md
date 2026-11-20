@@ -1,48 +1,26 @@
-# Hi there, I'm Bruno Cruz! 👋
-<!--
-Here are some ideas to get you started:
+# Hi there, I'm Bruno Cruz 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+I'm a senior full-stack product engineer with 6+ years of experience, working mostly in remote, lean US-based startups. I build with TypeScript (frontend and backend), Ruby on Rails and Elixir/Phoenix.
 
-I'm a Full-Stack Senior Software Engineer with +6 years of experience in building products that delight users. I am passionate about creating scalable and efficient solutions and have expertise in distributed architecture on both AWS and GCP. I also have experience in Infrastructure-as-code (IaC) using AWS CDK, Serverless Framework, and Serverless Stack (SST). In addition to my technical skills, I have a background in management consulting, specializing in Pricing.
+I like owning a product end to end: talking to customers, designing the data model, shipping, and running it in production. I work design-doc first and use AI coding agents (Claude Code, Cursor) for most of the implementation, then review and test every change myself.
 
-## Technologies I've worked with
+## Projects
 
-- **Javascript/Typescript:** React, NextJS, VueJS, NuxtJS, NodeJS, NestJS
-- **Ruby:** Ruby on Rails
-- **Dart:** Flutter
-- **Databases:** PostgreSQL, MongoDB, Firestore, Redis, FaunaDB
-- **ORMs and Query Builders:** Prisma, TypeORM, Mongoose/Typegoose, Sequelize, Knex
-- **AWS:** Lambdas, S3, SQS, SNS, SES, API Gateway (including WebSockets), Cloudwatch, EC2, Cognito, VPC, IAM, CloudFront, Route 53, RDS, Textract
-- **GCP:** Cloud Functions, App Engine, Cloud Storage, Cloud Logging
-- **Infrastructure-as-code (IaC):** AWS CDK, Serverless Framework, Serverless Stack (SST)
-- **Content Management Systems (CMS):** WordPress, Ghost, Prismic
-- **3rd-part integrations:** Rudderstack, Stripe, FastSpring, Google Analytics, Slack, Google Docs, Google Maps, Mailchimp, Vimeo
+- [Uptime Monitor](https://github.com/brucruz/uptime-monitor) (TypeScript): HTTP and Playwright login checks, results stored in ClickHouse, traced with OpenTelemetry.
+- [Legal Case RAG](https://github.com/brucruz/legal-case-rag) (TypeScript, NestJS): semantic search over EU court cases with pgvector and OpenAI embeddings.
+- [GlobalDial](https://globaldial.com) (Ruby on Rails 8): international calling service on Twilio. Stripe checkout and webhooks credit purchases in real time, and Stripe early fraud warnings trigger automatic refunds before they become chargebacks. Uses Hotwire and the Solid Trifecta on SQLite, deployed with Kamal 2 to a Hetzner VPS.
+- **MentionWave** (Elixir, Phoenix LiveView): AI-powered social listening tool. LLMs filter noise out of keyword mentions, a LiveView dashboard shows them in real time, and a GenServer pipeline under an OTP supervision tree processes 500 mentions per minute with automatic failure recovery.
+- [Sentinel](https://github.com/brucruz/sentinel) (Elixir/OTP): VPS and Docker monitor that runs as a single release under systemd. Behaviour-based collectors poll CPU, memory, disk and containers, an evaluator raises threshold alerts with per-alert cooldowns, and a Telegram bot answers status and 24h peak queries.
 
-## Current Projects and Contributions
-- [Ribbon](https://trustribbon.com): First Engineering team hire as a Senior Full Stack Product Engineer, helped to architect, build and validate an inheritance platform and a escheatment reduction system for banking institutions with direct integration to their core systems using NestJS and React.
-- [GlobalDial](https://globaldial.co): International phone calls alternative to Skype - built with Ruby on Rails
-- [Imóvel de Leilão](https://imoveldeleilao.com): Real estate auctions directory micro SaaS - built with Ruby on Rails
+## Notable work
 
-## Past relevant projects
-- [Carb Manager](https://carbmanager.com): Sr. Full-stack engineer, developed and maintained mobile components and functionalities related to meal planning, macronutrients tracking, food logging, intermitent fasting and health integrations.
-- [OAGenius](https://oagenius.com): Full-stack engineer, built price and inventory data-heavy integrations from major online retailers to Walmart and Amazon, so dropshippers can find market opportunities and better manage their businesses.
-- [Gama Academy](https://www.gama.academy/) and [Gama University](https://gama.university/): Front-end developer, built the websites using Prismic Slices and Webflow, so that the growth team could update it more easily.
-- [Headshare](http://headshare-community-web.brucruz.vercel.app/): Founder and developer, created a community management platform that enabled creators to grow and profit from their public.
-- [Heali](http://sagittarius.vercel.app/): Founder and lead developer, built a health-tech platform for patients without health insurance to find the best prices for their medical exams.
+- **Ribbon**: first engineering hire on an inheritance platform for financial institutions. Owned the architecture, hired and onboarded 8 engineers, and built an AI document verification flow that cut inheritor feedback time from days to under 3 minutes.
+- **Canary Technologies**: led a hotel kiosk hardware product that reached $1M USD in CARR in under 2 months after launch.
 
-## Get in touch
-<p><a href="https://github.com/brucruz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ImBrunoCruz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/brunogcruz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:bruno@brunocruz.me" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%030012.svg?&style=for-the-badge" /></a>
-</p>
+## Stack
 
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
+TypeScript, React, NestJS, Ruby on Rails, Elixir, Phoenix, PostgreSQL, AWS, Docker.
 
-[![](https://raw.githubusercontent.com/brucruz/brucruz/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/brucruz/brucruz/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/brucruz/brucruz/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## Contact
 
+[LinkedIn](https://linkedin.com/in/brunogcruz) · [Email](mailto:bru.cruz@gmail.com)
